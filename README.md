@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0771-jewels-and-stones](https://github.com/adarshsingh-codes/LeetCode/tree/master/0771-jewels-and-stones) |
 | [1108-defanging-an-ip-address](https://github.com/adarshsingh-codes/LeetCode/tree/master/1108-defanging-an-ip-address) |
 ## Array
 |  |
@@ -20,4 +21,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1672-richest-customer-wealth](https://github.com/adarshsingh-codes/LeetCode/tree/master/1672-richest-customer-wealth) |
+## Hash Table
+|  |
+| ------- |
+| [0771-jewels-and-stones](https://github.com/adarshsingh-codes/LeetCode/tree/master/0771-jewels-and-stones) |
 <!---LeetCode Topics End-->
