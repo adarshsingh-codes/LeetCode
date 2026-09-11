@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/adarshsingh-codes/LeetCode/tree/master/0048-rotate-image) |
+| [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/adarshsingh-codes/LeetCode/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0707-design-linked-list](https://github.com/adarshsingh-codes/LeetCode/tree/master/0707-design-linked-list) |
+| [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/adarshsingh-codes/LeetCode/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 ## Design
 |  |
 | ------- |
