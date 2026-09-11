@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0027-remove-element](https://github.com/adarshsingh-codes/LeetCode/tree/master/0027-remove-element) |
 | [0048-rotate-image](https://github.com/adarshsingh-codes/LeetCode/tree/master/0048-rotate-image) |
 | [0283-move-zeroes](https://github.com/adarshsingh-codes/LeetCode/tree/master/0283-move-zeroes) |
 | [1380-lucky-numbers-in-a-matrix](https://github.com/adarshsingh-codes/LeetCode/tree/master/1380-lucky-numbers-in-a-matrix) |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0027-remove-element](https://github.com/adarshsingh-codes/LeetCode/tree/master/0027-remove-element) |
 | [0125-valid-palindrome](https://github.com/adarshsingh-codes/LeetCode/tree/master/0125-valid-palindrome) |
 | [0283-move-zeroes](https://github.com/adarshsingh-codes/LeetCode/tree/master/0283-move-zeroes) |
 <!---LeetCode Topics End-->
