@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/adarshsingh-codes/LeetCode/tree/master/0048-rotate-image) |
+| [0836-rectangle-overlap](https://github.com/adarshsingh-codes/LeetCode/tree/master/0836-rectangle-overlap) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/adarshsingh-codes/LeetCode/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 ## Prefix Sum
 |  |
@@ -129,4 +130,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0143-reorder-list](https://github.com/adarshsingh-codes/LeetCode/tree/master/0143-reorder-list) |
+## Geometry
+|  |
+| ------- |
+| [0836-rectangle-overlap](https://github.com/adarshsingh-codes/LeetCode/tree/master/0836-rectangle-overlap) |
 <!---LeetCode Topics End-->
