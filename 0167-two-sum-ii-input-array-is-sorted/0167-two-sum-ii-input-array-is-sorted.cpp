@@ -3,13 +3,12 @@ public:
     vector<int> twoSum(vector<int>& nums, int target) {
         int i=0;
         int j=nums.size()-1;
-        vector<int>ans;
         while(i<j){
-            if((nums[i]+nums[j])==target){
+            if(nums[i]+nums[j]==target){
                 return {i+1,j+1};
-            }else if((nums[i]+nums[j])<target){
+            }else if(nums[i]+nums[j]<target){
                 i++;
-            }else if((nums[i]+nums[j])>target){
+            }else{
                 j--;
             }
         }
