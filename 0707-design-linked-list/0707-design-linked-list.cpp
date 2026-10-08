@@ -4,15 +4,11 @@ public:
     MyLinkedList() {
         head = NULL;
     }
-    
     int get(int index) {
-        if(index<0){
+        if(head==NULL||index<0){
             return -1;
         }
-        if(head==NULL){
-            return -1;
-        }
-        ListNode* temp=head;
+        ListNode*temp=head;
         for(int i=0;i<index&&temp!=NULL;i++){
             temp=temp->next;
         }
@@ -26,15 +22,16 @@ public:
         ListNode* newnode=new ListNode(val);
         newnode->next=head;
         head=newnode;
+        return;
     }
     
     void addAtTail(int val) {
-        ListNode*newnode=new ListNode(val);
+        ListNode* newnode=new ListNode(val);
         if(head==NULL){
             head=newnode;
             return;
         }
-        ListNode* temp=head;
+        ListNode*temp=head;
         while(temp->next!=NULL){
             temp=temp->next;
         }
@@ -43,12 +40,16 @@ public:
     
     void addAtIndex(int index, int val) {
         ListNode* newnode=new ListNode(val);
-        if(index<0){
+        if(index<0){ 
             return;
         }
+        
         if(index==0){
             newnode->next=head;
             head=newnode;
+            return;
+        }
+        if(head == NULL){
             return;
         }
         ListNode* temp=head;
@@ -63,23 +64,23 @@ public:
     }
     
     void deleteAtIndex(int index) {
-        if(index<0||head==NULL){
+        if(head==NULL||index<0){
             return;
         }
         if(index==0){
-             ListNode* temp=head;
+            ListNode*del=head;
             head=head->next;
-            delete temp;
+            delete del;
             return;
         }
-         ListNode* temp=head;
+        ListNode*temp=head;
         for(int i=0;i<index-1&&temp!=NULL;i++){
             temp=temp->next;
         }
         if(temp==NULL||temp->next==NULL){
             return;
         }
-         ListNode* del=temp->next;
+        ListNode*del=temp->next;
         temp->next=del->next;
         delete del;
     }
