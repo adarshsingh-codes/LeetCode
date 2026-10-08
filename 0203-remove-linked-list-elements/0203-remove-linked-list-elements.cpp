@@ -15,20 +15,18 @@ public:
             return NULL;
         }
         while(head!=NULL&&head->val==val){
-            ListNode* temp=head;
+            ListNode* del=head;
             head=head->next;
-            delete temp;
+            delete del;
         }
-        ListNode* temp=head;
-        ListNode* prev=NULL;
-        while(temp!=NULL){
-            if(temp->val==val){
-                prev->next=temp->next;
-                delete temp;
-                temp=prev->next;
+        ListNode*temp=head;
+        while(temp!=NULL&&temp->next!=NULL){
+            if(temp->next->val==val){
+                ListNode*del=temp->next;
+                temp->next=del->next;
+                delete del;
             }else{
-                prev=temp;
-                temp=prev->next;
+                temp=temp->next;
             }
         }
         return head;
