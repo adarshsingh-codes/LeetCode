@@ -10,8 +10,8 @@
  */
 class Solution {
 public:
-    int cnt(ListNode* head){
-        ListNode* temp=head;
+    int cnt(ListNode*head){
+        ListNode*temp=head;
         int count=0;
         while(temp!=NULL){
             count++;
@@ -20,13 +20,13 @@ public:
         return count;
     }
     int getDecimalValue(ListNode* head) {
+        ListNode*temp=head;
         int count=cnt(head)-1;
         int ans=0;
-        ListNode*temp=head;
         while(temp!=NULL){
             ans+=temp->val*pow(2,count);
-            count--;
             temp=temp->next;
+            count--;
         }
         return ans;
     }
