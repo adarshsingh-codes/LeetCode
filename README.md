@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/adarshsingh-codes/LeetCode/tree/master/0020-valid-parentheses) |
 | [0125-valid-palindrome](https://github.com/adarshsingh-codes/LeetCode/tree/master/0125-valid-palindrome) |
 | [0771-jewels-and-stones](https://github.com/adarshsingh-codes/LeetCode/tree/master/0771-jewels-and-stones) |
 | [1108-defanging-an-ip-address](https://github.com/adarshsingh-codes/LeetCode/tree/master/1108-defanging-an-ip-address) |
@@ -136,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/adarshsingh-codes/LeetCode/tree/master/0020-valid-parentheses) |
 | [0143-reorder-list](https://github.com/adarshsingh-codes/LeetCode/tree/master/0143-reorder-list) |
 ## Geometry
 |  |
@@ -159,4 +161,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0881-boats-to-save-people](https://github.com/adarshsingh-codes/LeetCode/tree/master/0881-boats-to-save-people) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/adarshsingh-codes/LeetCode/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
