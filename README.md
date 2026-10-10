@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/adarshsingh-codes/LeetCode/tree/master/0048-rotate-image) |
 | [0051-n-queens](https://github.com/adarshsingh-codes/LeetCode/tree/master/0051-n-queens) |
 | [0075-sort-colors](https://github.com/adarshsingh-codes/LeetCode/tree/master/0075-sort-colors) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/adarshsingh-codes/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/adarshsingh-codes/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/adarshsingh-codes/LeetCode/tree/master/0283-move-zeroes) |
 | [0881-boats-to-save-people](https://github.com/adarshsingh-codes/LeetCode/tree/master/0881-boats-to-save-people) |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/adarshsingh-codes/LeetCode/tree/master/0048-rotate-image) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/adarshsingh-codes/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0836-rectangle-overlap](https://github.com/adarshsingh-codes/LeetCode/tree/master/0836-rectangle-overlap) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/adarshsingh-codes/LeetCode/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 ## Prefix Sum
@@ -140,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/adarshsingh-codes/LeetCode/tree/master/0020-valid-parentheses) |
 | [0143-reorder-list](https://github.com/adarshsingh-codes/LeetCode/tree/master/0143-reorder-list) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/adarshsingh-codes/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/adarshsingh-codes/LeetCode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Geometry
 |  |
