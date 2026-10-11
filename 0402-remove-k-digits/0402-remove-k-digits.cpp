@@ -21,9 +21,7 @@ public:
         }
         reverse(ans.begin(),ans.end());
         while(ans[0]=='0'&&ans.size()>1){
-            if(ans[0]=='0'){
                 ans.erase(0,1);
-            }
         }
         
         if(ans==""){
