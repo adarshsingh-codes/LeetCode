@@ -11,9 +11,9 @@
 class Solution {
 public:
     ListNode* rev(ListNode* head){
+        ListNode* temp=head;
         ListNode* curr=head;
         ListNode* prev=NULL;
-        ListNode* temp=head;
         while(temp!=NULL){
             temp=curr->next;
             curr->next=prev;
@@ -23,7 +23,7 @@ public:
         return prev;
     }
     ListNode* removeNthFromEnd(ListNode* head, int n) {
-        if(head==NULL || n<=0){
+        if(head==NULL||n<=0){
             return NULL;
         }
         head=rev(head);
@@ -34,7 +34,7 @@ public:
             return rev(head);
         }
         ListNode* temp=head;
-        for(int i=1;i<n-1&&temp!=NULL;i++){
+        for(int i=1;temp!=NULL&&i<n-1;i++){
             temp=temp->next;
         }
         if(temp==NULL||temp->next==NULL){
