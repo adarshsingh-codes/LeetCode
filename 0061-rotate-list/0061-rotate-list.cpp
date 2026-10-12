@@ -24,7 +24,7 @@ public:
             return head;
         }
         k=k%cnt(head);
-        if(k == 0) {
+        if(k==0){
             return head;
         }
         int pos=cnt(head)-k;
@@ -32,17 +32,14 @@ public:
         for(int i=1;i<pos;i++){
             temp=temp->next;
         }
-        if(temp==NULL){
-            return head;
-        }
-        ListNode* newlist=temp->next;
-        ListNode* tail = newlist;
-        while(tail->next != NULL) {
-            tail = tail->next;
+        ListNode* newhead=temp->next;
+        ListNode* tail=newhead;
+        while(tail->next!=NULL){
+            tail=tail->next;
         }
         temp->next=NULL;
         tail->next=head;
-        head=newlist;
-        return head;
+        //head=newhead;
+        return newhead;
     }
 };
