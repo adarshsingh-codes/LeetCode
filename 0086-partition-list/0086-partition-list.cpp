@@ -14,13 +14,11 @@ public:
         if(head==NULL||head->next==NULL){
             return head;
         }
+        ListNode* list1=new ListNode(0);
+        ListNode* list2=new ListNode(0);
+        ListNode* temp1=list1;
+        ListNode* temp2=list2;
         ListNode* temp=head;
-
-        ListNode* temp1= new ListNode(0);
-        ListNode* temp2= new ListNode(0);
-
-        ListNode* list1=temp1;
-        ListNode* list2=temp2;
 
         while(temp!=NULL){
             if(temp->val<x){
