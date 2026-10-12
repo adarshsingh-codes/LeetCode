@@ -14,26 +14,25 @@ public:
         if(head==NULL||head->next==NULL){
             return head;
         }
+        ListNode* node1=new ListNode(0);
+        ListNode* node2=new ListNode(0);
+    
+        ListNode* temp1=node1;
+        ListNode* temp2=node2;
         ListNode* temp=head;
-
-        ListNode* temp1=new ListNode(0);
-        ListNode* temp2=new ListNode(0);
-
-        ListNode* list1=temp1;
-        ListNode* list2=temp2;
 
         for(int i=1;temp!=NULL;i++){
             if(i%2!=0){
-                list1->next=temp;
-                list1=list1->next;
+                node1->next=temp;
+                node1=node1->next;
             }else{
-                list2->next=temp;
-                list2=list2->next;
+                node2->next=temp;
+                node2=node2->next;
             }
             temp=temp->next;
         }
-        list2->next=NULL;
-        list1->next=temp2->next;
+        node2->next=NULL;
+        node1->next=temp2->next;
         return temp1->next;
     }
 };
