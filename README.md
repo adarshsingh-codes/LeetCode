@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0735-asteroid-collision](https://github.com/adarshsingh-codes/LeetCode/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/adarshsingh-codes/LeetCode/tree/master/0739-daily-temperatures) |
 | [0881-boats-to-save-people](https://github.com/adarshsingh-codes/LeetCode/tree/master/0881-boats-to-save-people) |
+| [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/adarshsingh-codes/LeetCode/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1380-lucky-numbers-in-a-matrix](https://github.com/adarshsingh-codes/LeetCode/tree/master/1380-lucky-numbers-in-a-matrix) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/adarshsingh-codes/LeetCode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1470-shuffle-the-array](https://github.com/adarshsingh-codes/LeetCode/tree/master/1470-shuffle-the-array) |
@@ -208,4 +209,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0643-maximum-average-subarray-i](https://github.com/adarshsingh-codes/LeetCode/tree/master/0643-maximum-average-subarray-i) |
+| [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/adarshsingh-codes/LeetCode/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 <!---LeetCode Topics End-->
