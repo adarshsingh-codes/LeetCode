@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1920-build-array-from-permutation](https://github.com/adarshsingh-codes/LeetCode/tree/master/1920-build-array-from-permutation) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/adarshsingh-codes/LeetCode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2574-left-and-right-sum-differences](https://github.com/adarshsingh-codes/LeetCode/tree/master/2574-left-and-right-sum-differences) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/adarshsingh-codes/LeetCode/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 ## Simulation
 |  |
 | ------- |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/adarshsingh-codes/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0836-rectangle-overlap](https://github.com/adarshsingh-codes/LeetCode/tree/master/0836-rectangle-overlap) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/adarshsingh-codes/LeetCode/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/adarshsingh-codes/LeetCode/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 ## Prefix Sum
 |  |
 | ------- |
