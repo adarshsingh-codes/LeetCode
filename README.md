@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/adarshsingh-codes/LeetCode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1470-shuffle-the-array](https://github.com/adarshsingh-codes/LeetCode/tree/master/1470-shuffle-the-array) |
 | [1480-running-sum-of-1d-array](https://github.com/adarshsingh-codes/LeetCode/tree/master/1480-running-sum-of-1d-array) |
+| [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/adarshsingh-codes/LeetCode/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/adarshsingh-codes/LeetCode/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1672-richest-customer-wealth](https://github.com/adarshsingh-codes/LeetCode/tree/master/1672-richest-customer-wealth) |
 | [1920-build-array-from-permutation](https://github.com/adarshsingh-codes/LeetCode/tree/master/1920-build-array-from-permutation) |
@@ -134,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0875-koko-eating-bananas](https://github.com/adarshsingh-codes/LeetCode/tree/master/0875-koko-eating-bananas) |
 | [1004-max-consecutive-ones-iii](https://github.com/adarshsingh-codes/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
 | [1208-get-equal-substrings-within-budget](https://github.com/adarshsingh-codes/LeetCode/tree/master/1208-get-equal-substrings-within-budget) |
+| [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/adarshsingh-codes/LeetCode/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/adarshsingh-codes/LeetCode/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Sorting
 |  |
