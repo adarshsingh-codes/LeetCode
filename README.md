@@ -292,6 +292,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/adarshsingh-codes/LeetCode/tree/master/0226-invert-binary-tree) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/adarshsingh-codes/LeetCode/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0543-diameter-of-binary-tree](https://github.com/adarshsingh-codes/LeetCode/tree/master/0543-diameter-of-binary-tree) |
+| [1161-maximum-level-sum-of-a-binary-tree](https://github.com/adarshsingh-codes/LeetCode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -304,6 +305,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0515-find-largest-value-in-each-tree-row](https://github.com/adarshsingh-codes/LeetCode/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0543-diameter-of-binary-tree](https://github.com/adarshsingh-codes/LeetCode/tree/master/0543-diameter-of-binary-tree) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/adarshsingh-codes/LeetCode/tree/master/0787-cheapest-flights-within-k-stops) |
+| [1161-maximum-level-sum-of-a-binary-tree](https://github.com/adarshsingh-codes/LeetCode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1267-count-servers-that-communicate](https://github.com/adarshsingh-codes/LeetCode/tree/master/1267-count-servers-that-communicate) |
 ## Binary Tree
 |  |
@@ -317,6 +319,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/adarshsingh-codes/LeetCode/tree/master/0226-invert-binary-tree) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/adarshsingh-codes/LeetCode/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0543-diameter-of-binary-tree](https://github.com/adarshsingh-codes/LeetCode/tree/master/0543-diameter-of-binary-tree) |
+| [1161-maximum-level-sum-of-a-binary-tree](https://github.com/adarshsingh-codes/LeetCode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -327,6 +330,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/adarshsingh-codes/LeetCode/tree/master/0226-invert-binary-tree) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/adarshsingh-codes/LeetCode/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/adarshsingh-codes/LeetCode/tree/master/0787-cheapest-flights-within-k-stops) |
+| [1161-maximum-level-sum-of-a-binary-tree](https://github.com/adarshsingh-codes/LeetCode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1267-count-servers-that-communicate](https://github.com/adarshsingh-codes/LeetCode/tree/master/1267-count-servers-that-communicate) |
 ## DP on Trees
 |  |
