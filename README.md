@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0875-koko-eating-bananas](https://github.com/adarshsingh-codes/LeetCode/tree/master/0875-koko-eating-bananas) |
 | [0881-boats-to-save-people](https://github.com/adarshsingh-codes/LeetCode/tree/master/0881-boats-to-save-people) |
 | [1004-max-consecutive-ones-iii](https://github.com/adarshsingh-codes/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
+| [1267-count-servers-that-communicate](https://github.com/adarshsingh-codes/LeetCode/tree/master/1267-count-servers-that-communicate) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/adarshsingh-codes/LeetCode/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/adarshsingh-codes/LeetCode/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1380-lucky-numbers-in-a-matrix](https://github.com/adarshsingh-codes/LeetCode/tree/master/1380-lucky-numbers-in-a-matrix) |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/adarshsingh-codes/LeetCode/tree/master/0048-rotate-image) |
+| [1267-count-servers-that-communicate](https://github.com/adarshsingh-codes/LeetCode/tree/master/1267-count-servers-that-communicate) |
 | [1380-lucky-numbers-in-a-matrix](https://github.com/adarshsingh-codes/LeetCode/tree/master/1380-lucky-numbers-in-a-matrix) |
 | [1672-richest-customer-wealth](https://github.com/adarshsingh-codes/LeetCode/tree/master/1672-richest-customer-wealth) |
 ## Hash Table
@@ -298,6 +300,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/adarshsingh-codes/LeetCode/tree/master/0226-invert-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/adarshsingh-codes/LeetCode/tree/master/0543-diameter-of-binary-tree) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/adarshsingh-codes/LeetCode/tree/master/0787-cheapest-flights-within-k-stops) |
+| [1267-count-servers-that-communicate](https://github.com/adarshsingh-codes/LeetCode/tree/master/1267-count-servers-that-communicate) |
 ## Binary Tree
 |  |
 | ------- |
@@ -316,6 +319,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/adarshsingh-codes/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/adarshsingh-codes/LeetCode/tree/master/0226-invert-binary-tree) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/adarshsingh-codes/LeetCode/tree/master/0787-cheapest-flights-within-k-stops) |
+| [1267-count-servers-that-communicate](https://github.com/adarshsingh-codes/LeetCode/tree/master/1267-count-servers-that-communicate) |
 ## DP on Trees
 |  |
 | ------- |
@@ -332,4 +336,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0787-cheapest-flights-within-k-stops](https://github.com/adarshsingh-codes/LeetCode/tree/master/0787-cheapest-flights-within-k-stops) |
+## Union-Find
+|  |
+| ------- |
+| [1267-count-servers-that-communicate](https://github.com/adarshsingh-codes/LeetCode/tree/master/1267-count-servers-that-communicate) |
+## Counting
+|  |
+| ------- |
+| [1267-count-servers-that-communicate](https://github.com/adarshsingh-codes/LeetCode/tree/master/1267-count-servers-that-communicate) |
 <!---LeetCode Topics End-->
